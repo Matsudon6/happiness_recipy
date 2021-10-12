@@ -1,6 +1,6 @@
 # Happiness Recipy
 
-## Bienvenue sur notre projet
+## Bienvenue sur mon projet de Machine Learning
 
 
 Le projet de machine learning Happiness Recipy est le projet Fil Rouge du Bootcamp  
@@ -18,6 +18,6 @@ Si vous le souhaitez, vous pouvez me contacter en suivant le lien ci-dessous :
 
 Matthieu Estournet - [LinkedIn](https://www.linkedin.com/in/matthieuestournet/) - [Mail](matthieuestournet@gmail.com)
 
-[Project Link](https://share.streamlit.io/matsudon6/happiness_recipy/main/happiness_recipy.py)
+[Project Link on Streamlit sharing](https://share.streamlit.io/matsudon6/happiness_recipy/main/happiness_recipy.py)
 
 ### Be happy !!
