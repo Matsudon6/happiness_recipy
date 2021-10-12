@@ -18,6 +18,6 @@ Si vous le souhaitez, vous pouvez me contacter en suivant le lien ci-dessous :
 
 Matthieu Estournet - [LinkedIn](https://www.linkedin.com/in/matthieuestournet/) - [Mail](matthieuestournet@gmail.com)
 
-[Project Link on Streamlit sharing](https://share.streamlit.io/matsudon6/happiness_recipy/main/happiness_recipy.py)
+[Project Link on Streamlit sharing](https://share.streamlit.io/matsudon6/project/main/happiness_reci.py)
 
 ### Be happy !!
