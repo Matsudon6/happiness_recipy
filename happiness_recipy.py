@@ -919,7 +919,7 @@ if page_selector == 'Conclusion':
 	
 	st.write("##")
 
-	caption = '<p style="color:grey;font-size: 14px;padding: 0px;">Si vous avez apprecié notre travail ou si vous avez des questions, des propositions, n\'hésitez pas à nous contacter via le lien LinkedIn qui est sur la gauche de l\'écran.</p>'
+	caption = '<p style="color:grey;font-size: 14px;padding: 0px;">Si vous avez apprecié notre travail ou si vous avez des questions, des propositions, n\'hésitez pas à nous contacter grâce aux liens sur la gauche de l\'écran.</p>'
 	st.markdown(caption, unsafe_allow_html=True)
 
 	st.image('datas/couverture-rapport.jpg')
