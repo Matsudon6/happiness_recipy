@@ -1,7 +1,7 @@
 # Happiness Recipy
 
 ## Bienvenue sur notre projet
-##
+
 
 Le projet de machine learning Happiness Recipy est le projet Fil Rouge du Bootcamp  
 de Data Analyst réalisé entre juillet 2021 et septembre 2021 par moi-même Matthieu Estournet
@@ -20,4 +20,4 @@ Matthieu Estournet - (https://www.linkedin.com/in/matthieuestournet/) - matthieu
 
 Project Link: [https://github.com/Matsudon6/happiness_recipy](https://github.com/Matsudon6/happiness_recipy)
 
-# happiness_recipy
+### Be happy !!
