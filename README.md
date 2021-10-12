@@ -16,8 +16,8 @@ Nous espérons que vous apprécierez notre travail.
 Si vous le souhaitez, vous pouvez me contacter en suivant le lien ci-dessous :
 
 
-Matthieu Estournet - (https://www.linkedin.com/in/matthieuestournet/) - matthieuestournet@gmail.com
+Matthieu Estournet - [LinkedIn](https://www.linkedin.com/in/matthieuestournet/) - [Mail](matthieuestournet@gmail.com)
 
-Project Link: [https://github.com/Matsudon6/happiness_recipy](https://github.com/Matsudon6/happiness_recipy)
+[Project Link](https://share.streamlit.io/matsudon6/happiness_recipy/main/happiness_recipy.py)
 
 ### Be happy !!
