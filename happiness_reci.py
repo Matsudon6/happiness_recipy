@@ -908,7 +908,7 @@ if page_selector == 'Conclusion':
 	st.markdown(titre, unsafe_allow_html=True)
 
 
-	tx = '<p style="color:black;text-align:justify;font-size: 16px;padding: 0px;">Afin de prédire le ladder score des pays, nous avons essayé plusieurs modèles de régression avec différents paramètres et différentes combinaisons de variables. Et, bien que nous ayons fait progresser notre modèle de façon claire, le taux d’erreurs dans nos prédictions reste à environ 7,5 %, ce qui n\'est pas satisfaisant.<br>\
+	tx = '<p style="color:black;text-align:justify;font-size: 16px;padding: 0px;">Afin de prédire le ladder score des pays, nous avons essayé plusieurs modèles de régression avec différents paramètres et différentes combinaisons de variables. Et, bien que nous ayons fait progresser notre modèle de façon claire, le taux d’erreurs dans nos prédictions reste à environ 7,5 %, ce qui n\'est pas totalement satisfaisant.<br>\
 	<br>\
 	Cependant nous avons pu nous rendre compte que la différence entre scores prédits et scores réels a l\'air d\'être en lien avec la région du globe. Comme nous venons de le voir, des régions comme Sub-Saharan Africa ou SouthEast Asia n’ont pas des résultats très performants. Pourtant le même modèle a de biens meilleurs résultats sur North America and ANZ ou Western Europe.<br>\
 	<br>\
