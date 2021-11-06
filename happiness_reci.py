@@ -919,7 +919,10 @@ if page_selector == 'Conclusion':
 	
 	st.write("##")
 
-	caption = '<p style="color:grey;font-size: 14px;padding: 0px;">Si vous avez apprecié notre travail ou si vous avez des questions, des propositions, n\'hésitez pas à nous contacter grâce aux liens sur la gauche de l\'écran.</p>'
+	caption = '<p style="color:grey;font-size: 14px;padding: 0px;">Si vous avez apprecié notre travail ou si vous avez des questions, des propositions, n\'hésitez pas à nous contacter (\
+	<a style=color:#f53466; href="https://www.linkedin.com/in/axel-poulier-10701a115/">Axel</a> - \
+	<a style=color:#f53466; href="https://www.linkedin.com/in/matthieuestournet/">Matthieu</a>\
+	)</p>'
 	st.markdown(caption, unsafe_allow_html=True)
 
 	st.image('datas/couverture-rapport.jpg')
